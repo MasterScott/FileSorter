@@ -232,5 +232,3 @@ void Copy(string file, string dirFile, string dirCopy) {
 		cout << "\n\tSUCCESS" << endl;
 	}
 }
-
-// <- Oh my god!! :D 222 
